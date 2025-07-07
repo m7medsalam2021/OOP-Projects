@@ -1,0 +1,14 @@
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\bin\Debug\net8.0\PremierLeagueFixtures.exe
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\bin\Debug\net8.0\PremierLeagueFixtures.deps.json
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\bin\Debug\net8.0\PremierLeagueFixtures.runtimeconfig.json
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\bin\Debug\net8.0\PremierLeagueFixtures.dll
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\bin\Debug\net8.0\PremierLeagueFixtures.pdb
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\obj\Debug\net8.0\PremierLeagueFixtures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\obj\Debug\net8.0\PremierLeagueFixtures.AssemblyInfoInputs.cache
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\obj\Debug\net8.0\PremierLeagueFixtures.AssemblyInfo.cs
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\obj\Debug\net8.0\PremierLeagueFixtures.csproj.CoreCompileInputs.cache
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\obj\Debug\net8.0\PremierLeagueFixtures.dll
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\obj\Debug\net8.0\refint\PremierLeagueFixtures.dll
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\obj\Debug\net8.0\PremierLeagueFixtures.pdb
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\obj\Debug\net8.0\PremierLeagueFixtures.genruntimeconfig.cache
+C:\Users\Sallam\Source\Repos\PremierLeagueFixtures\PremierLeagueFixtures\obj\Debug\net8.0\ref\PremierLeagueFixtures.dll
